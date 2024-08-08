@@ -1,0 +1,28 @@
+#no {
+    margin-left: 180px;
+}
+
+
+
+button {
+    position: absolute;
+    background-color: palevioletred;
+    color: pink;
+    font-size: 50pt;
+    cursor: pointer;
+    padding: 30px;
+    font-family: "Playwrite";
+}
+
+main
+
+h2{
+    height: 10px;
+    width: 10px;
+}
+
+#s2{
+    margin-left: 590px;
+    height: 300px;
+    width: 300px;;
+}
